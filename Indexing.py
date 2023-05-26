@@ -1,5 +1,3 @@
-import sys
-sys.path.append("D:\# Shared_Folder_HDD\# Python_Code_and_Tool\github-repo\# Jayce")
 from log import log
 from file_control import untitled as fc
 

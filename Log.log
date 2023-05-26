@@ -1,0 +1,32 @@
+2023-05-26 12:38:57,855 - log - INFO - Please confirm input parameter >> module
+2023-05-26 12:38:57,856 - log - INFO - Path >> Log.log
+2023-05-26 12:38:57,856 - log - INFO - Setting Log Level >> INFO
+2023-05-26 12:38:57,856 - log - INFO - test log
+2023-05-26 12:40:13,707 - Indexing - INFO - Log Started
+2023-05-26 12:40:13,707 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:40:13,707 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:40:13,707 - Indexing - INFO - test log
+2023-05-26 12:42:12,315 - Indexing - INFO - Log Started
+2023-05-26 12:42:12,316 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:42:12,316 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:42:12,316 - Indexing - INFO - test log
+2023-05-26 12:50:10,312 - Indexing - INFO - Log Started
+2023-05-26 12:50:10,313 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:50:10,313 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:50:33,755 - Indexing - INFO - Log Started
+2023-05-26 12:50:33,755 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:50:33,755 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:50:50,333 - Indexing - INFO - Log Started
+2023-05-26 12:50:50,333 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:50:50,333 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:51:19,659 - Indexing - INFO - Log Started
+2023-05-26 12:51:19,659 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:51:19,659 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:51:32,811 - Indexing - INFO - Log Started
+2023-05-26 12:51:32,812 - Indexing - INFO - Path >> Log.log
+2023-05-26 12:51:32,812 - Indexing - INFO - Setting Log Level >> INFO
+2023-05-26 12:55:09,447 - Indexing - INFO - path : D:\# Shared_Folder_HDD\# Python_Code_and_Tool\github-repo\clustering\Sample\Find X5 Pro-W-x1.0-Default-Photo_EIS ON-Yaw Pitch-0.5deg-6Hz_VID20220115063156_ROI_0.xlsx
+2023-05-26 12:55:16,007 - Indexing - INFO - path : D:\# Shared_Folder_HDD\# Python_Code_and_Tool\github-repo\clustering\Sample\Find X5 Pro-W-x1.0-Default-Photo_EIS ON-Yaw Pitch-0.5deg-6Hz_VID20220115063156_ROI_0.xlsx
+2023-05-26 13:37:11,439 - Indexing - INFO - Log Started
+2023-05-26 13:37:11,439 - Indexing - INFO - Path >> Log.log
+2023-05-26 13:37:11,439 - Indexing - INFO - Setting Log Level >> INFO
