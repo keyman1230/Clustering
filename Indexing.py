@@ -12,7 +12,7 @@ if __name__ == "__main__":
     import matplotlib.pyplot as plt
     import seaborn as sns
     # setting log
-    logger = log.set_log(module="Indexing", lv="INFO")
+    logger = log.set_log(module="Clustering", lv="INFO")
     # logger.info("test log")
 
     path = fc.select_file(init_dir="./")
