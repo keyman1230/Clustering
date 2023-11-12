@@ -1,12 +1,12 @@
 import os
-import sys
-import time
-import datetime
+# import sys
+# import time
+# import datetime
 import logging
 from tqdm import tqdm
-import exifread
-import imghdr
-import configparser
+# import exifread
+# import imghdr
+# import configparser
 import tkinter
 from tkinter import filedialog
 

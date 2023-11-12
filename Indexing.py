@@ -12,11 +12,12 @@ if __name__ == "__main__":
     import matplotlib.pyplot as plt
     import seaborn as sns
     # setting log
-    logger = log.set_log(module="Clustering", lv="INFO")
+    logger = log.set_log(module="Clustering", path="log", lv="INFO")
     # logger.info("test log")
 
     path = fc.select_file(init_dir="./")
     df = pd.read_excel(path)
+
     logger.info(f"path : {path}")
     plt.figure()
     sns.scatterplot(data=df, x="Marker_Center_X_full", y="Marker_Center_Y_full")
